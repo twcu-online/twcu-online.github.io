@@ -82,7 +82,7 @@ title: 遠隔授業サポートページ
 
 パスワードの変更が終了したら，以下の3つのシステムを利用してみましょう．いずれも，東京女子大学で学生生活を送るために必須のシステムです．
 
-- **CampusSquare**：**[CampusSquare](https://office3.bb.twcu.ac.jp/campusweb/campusportal.do)** にアクセスし，「ユーザ名」欄に自分のユーザ名，「パスワード」欄に学内統一パスワードを入力し，「ログイン」をクリックします．ログイン後の操作方法は，Web履修登録マニュアルを参考にしてください．
+- **CampusSquare**：**[CampusSquare](https://office2.bb.twcu.ac.jp/campusweb/campusportal.do)** にアクセスし，「ユーザ名」欄に自分のユーザ名，「パスワード」欄に学内統一パスワードを入力し，「ログイン」をクリックします．ログイン後の操作方法は，Web履修登録マニュアルを参考にしてください．
 
 - **東女Gmail**：**[Gmailへのログイン方法](https://sites.google.com/cis.twcu.ac.jp/cisqa/mail/gmail-cannot_login)** に記載されている手順に従って，**[東女Gmail](https://mail.google.com/a/cis.twcu.ac.jp)** にログインしてみましょう．簡単な使い方については **[メールの使い方](./gmail.md)** をご覧ください．
 
