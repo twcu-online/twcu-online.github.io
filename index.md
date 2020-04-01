@@ -3,7 +3,7 @@ layout: default
 title: 遠隔授業サポートページ
 ---
 
-**（更新：2020年3月31日）**
+**（更新日：2020年4月1日）**
 <br />
 <br />
 
@@ -71,19 +71,12 @@ title: 遠隔授業サポートページ
 
 1. &nbsp;&nbsp;**[よいパスワードのつけ方](./password.md){:target="_blank"}** を参考に，自分のパスワードを考えます．
 
-1. &nbsp;&nbsp;**[学外からパスワード変更を行う方法](https://sites.google.com/cis.twcu.ac.jp/cisqa/login/password_outside?authuser=0){:target="_blank"}** に記載されている手順に従って，初期パスワードを，自分が考えたパスワードに変更します．
+1. &nbsp;&nbsp;**[パスワード設定マニュアル](./password_change_manual.pdf){:target="_blank"}** をよく読み，記載されている手順に従って，初期パスワードを自分が考えたパスワードに変更します．マニュアルの中には，パソコンから変更する手順を記したパソコン編と，スマートフォンから変更する手順を示したスマホ編があります．自分の環境に合わせて，どちらかの方法でパスワードを変更しましょう．
 
 1. &nbsp;&nbsp;ここで変更したパスワードは，**学内統一パスワード** と呼ばれ，様々なシステムで共通に利用することができます．パスワードの変更ができたら，このページの下の方に書かれているいくつかのシステムを実際に使ってみましょう．
 
 <font color="red">（注）パスワードの変更に失敗したり，パスワードを忘れてログインができなくなった<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;場合は，以下に連絡してください．</font>
-<br />
-
----
-**<font color="red">パスワード変更時の注意事項（重要！）</font>**
-
-（今後，追記予定）
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;場合は，以下に連絡してください．（今後，追記予定）</font>
 <br />
 
 ---
@@ -106,10 +99,10 @@ title: 遠隔授業サポートページ
 
 #### 次に行うこと
 
-**東女Gmail**の設定を行います．**[Gmailへのログイン方法](https://sites.google.com/cis.twcu.ac.jp/cisqa/mail/gmail-cannot_login){:target="_blank"}** に記載されている手順に従って，**[東女Gmail](https://mail.google.com/a/cis.twcu.ac.jp){:target="_blank"}** にログインしてみましょう．簡単な使い方については **[メールの使い方](./gmail.md){:target="_blank"}** をご覧ください．東女Gmailにアクセスすると，アドバイザーの先生からメールが届いているはずです（**[アドバイザーとは？](https://www.twcu.ac.jp/univ/campuslife/support/adviser/files/adviser_1.pdf){:target="_blank"}**）．メールの内容を確認し，必ず先生からのメールに返信をしてください．
+**東女Gmail**の設定を行います．**[Gmailへのログイン方法](https://sites.google.com/cis.twcu.ac.jp/cisqa/mail/gmail-cannot_login){:target="_blank"}** に記載されている手順に従って，**[東女Gmail](https://mail.google.com/a/cis.twcu.ac.jp){:target="_blank"}** にログインしてみましょう．簡単な使い方については **[メールの使い方](./gmail.md){:target="_blank"}** をご覧ください．東女Gmailには，**<font color="red">4月7日以降</font>** にアドバイザーの先生からメールが届きます（**[アドバイザーとは？](https://www.twcu.ac.jp/univ/campuslife/support/adviser/files/adviser_1.pdf){:target="_blank"}**）．内容を確認し，必ず先生からのメールに返信をしてください．メールはときどき「迷惑メールフォルダー」に振り分けられてしまうことがあります．先生からのメールが届かないときは「迷惑メールフォルダー」の中身も確認してください．
 
-<font color="red">（注）アドバイザーからのメールが届いていない場合は，以下のアドレスにメールを<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;送ってください．</font>
+<font color="red">（注）4月10日までにアドバイザーからのメールが届かない場合は，以下のアドレスに<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;メールを送り，指示に従ってください．（今後，追記予定）</font>
 <br />
 
 #### その他のシステムの利用手順
@@ -142,7 +135,7 @@ title: 遠隔授業サポートページ
 
 - 教育用ICTシステムの利用方法については，**[情報処理センター](https://www.cis.twcu.ac.jp/cis/index.html){:target="_blank"}** のページに記載があります．**[Q&A](https://sites.google.com/cis.twcu.ac.jp/cisqa){:target="_blank"}** も用意されていますので，こちらも参考にしてください．
 
-- メール等での問い合わせ窓口（今後，追記予定）
+- 東女Gmailの設定ができないなど，メールを送ることができない状態になってしまった場合は，以下の問い合わせ窓口に電話で連絡をしてください．（今後，追記予定）
 
 <br />
 <br />
