@@ -3,7 +3,7 @@ layout: default
 title: 遠隔授業サポートページ
 ---
 
-**（更新日：2020年4月1日）**
+**（更新日：2020年4月2日）**
 <br />
 <br />
 
@@ -65,7 +65,7 @@ title: 遠隔授業サポートページ
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;万が一，パスワードの再発行が必要になった場合に利用します．</font>
 <br />
 
-#### まず最初に行うこと
+#### まず最初に行うこと（パスワードの変更）
 
 受領した「初期パスワード」の変更を行います．変更の手順は次のとおりです．
 
@@ -97,12 +97,13 @@ title: 遠隔授業サポートページ
 ---
 <br />
 
-#### 次に行うこと
+#### 次に行うこと（東女Gmaiの設定）
 
 **東女Gmail**の設定を行います．**[Gmailへのログイン方法](https://sites.google.com/cis.twcu.ac.jp/cisqa/mail/gmail-cannot_login){:target="_blank"}** に記載されている手順に従って，**[東女Gmail](https://mail.google.com/a/cis.twcu.ac.jp){:target="_blank"}** にログインしてみましょう．簡単な使い方については **[メールの使い方](./gmail.md){:target="_blank"}** をご覧ください．東女Gmailには，**<font color="red">4月7日以降</font>** にアドバイザーの先生からメールが届きます（**[アドバイザーとは？](https://www.twcu.ac.jp/univ/campuslife/support/adviser/files/adviser_1.pdf){:target="_blank"}**）．内容を確認し，必ず先生からのメールに返信をしてください．メールはときどき「迷惑メールフォルダー」に振り分けられてしまうことがあります．先生からのメールが届かないときは「迷惑メールフォルダー」の中身も確認してください．
 
-<font color="red">（注）4月10日までにアドバイザーからのメールが届かない場合は，以下のアドレスに<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;メールを送り，指示に従ってください．（今後，追記予定）</font>
+<font color="red">（注）4月10日までにアドバイザーからのメールが届かない場合は，以下のアドレス<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kyomu@office.twcu.ac.jp にメールを送り，指示に従ってください．このとき，<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;件名は必ず「（学生番号）メール未着」としてください．</font>
 <br />
 
 #### その他のシステムの利用手順
