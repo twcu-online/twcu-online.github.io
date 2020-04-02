@@ -80,7 +80,7 @@ title: 遠隔授業サポートページ
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ワード」にリセットします．処理には1日程度時間がかかりますので，次の日に<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;なってから，「初期パスワード」を用いて再度パスワードの変更を行ってください．<br />
 </font>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<font color="red">学生生活課：03-5382-6920（受付時間：9:00-11:25, 12:25-17:00）</font>**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<font color="red">学生生活課：03-5382-6920（受付時間：月〜金 9:00-11:25, 12:25-17:00）</font>**
 <br />
 <br />
 
