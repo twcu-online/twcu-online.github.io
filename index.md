@@ -106,7 +106,7 @@ title: 遠隔授業サポートページ
 
 **東女Gmail**の設定を行います．**[Gmailへのログイン方法](https://sites.google.com/cis.twcu.ac.jp/cisqa/mail/gmail-cannot_login){:target="_blank"}** に記載されている手順に従って，**[東女Gmail](https://mail.google.com/a/cis.twcu.ac.jp){:target="_blank"}** にログインしてみましょう．簡単な使い方については **[メールの使い方](./gmail.md){:target="_blank"}** をご覧ください．東女Gmailには，**<font color="red">4月7日以降</font>** にアドバイザーの先生からメールが届きます（**[アドバイザーとは？](https://www.twcu.ac.jp/univ/campuslife/support/adviser/files/adviser_1.pdf){:target="_blank"}**）．内容を確認し，必ず先生からのメールに返信をしてください．メールはときどき「迷惑メールフォルダー」に振り分けられてしまうことがあります．先生からのメールが届かないときは「迷惑メールフォルダー」の中身も確認してください．
 
-<font color="red">（注）4月10日までにアドバイザーからのメールが届かない場合は，以下のアドレス<br />
+<font color="red">（注）4月12日までにアドバイザーからのメールが届かない場合は，以下のアドレス<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kyomu@office.twcu.ac.jp にメールを送り，指示に従ってください．このとき，<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;件名は必ず「（学生番号）メール未着」としてください．</font>
 <br />
