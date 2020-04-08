@@ -4,9 +4,6 @@ https://twcu-online.github.io/
 <br />
 <br />
 
-## 更新の仕方
-
-
 ## サイトの構成
 
 （今後，変更する可能性あり）
