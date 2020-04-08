@@ -6,6 +6,7 @@ description: 遠隔授業サポートページ
 
 {% include homelink.md %}
 <br />
+<br />
 
 **（更新日：2020年4月7日）**
 <br />

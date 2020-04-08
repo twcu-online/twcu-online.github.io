@@ -15,10 +15,11 @@ https://twcu-online.github.io/
 
 ## その他の参考情報
 
-### GitHubの設定
+### GitHubの設定・使い方
 
 - [Getting started with GitHub](https://help.github.com/en/github/getting-started-with-github)  
-- [SSHによるGitHubへのアクセス](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+- [SSHによるGitHubへのアクセス](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)  
+- [pull requestの作成](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
 
 ### 利用しているテーマ（Slate）のデモページ
 
