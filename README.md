@@ -23,18 +23,19 @@ $ git push -u origin master
 
 ## サイトの構成
 
-今後変わる可能性がありますが，現状は以下のとおりです．
+（今後，変更する可能性あり）
 
 - トップページ：新入生用ページ  
 - student配下：在学生用ページ  
 - teacher配下：教員用ページ
+<br />
 
 ## その他の参考情報
 
 ### Githubの設定
 
-- [Getting started with GitHub](https://help.github.com/en/github/getting-started-with-github){:target="_blank"}  
-- [SSHによるGitHubへのアクセス](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh){:target="_blank"}
+- [Getting started with GitHub](https://help.github.com/en/github/getting-started-with-github)  
+- [SSHによるGitHubへのアクセス](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
 ### 利用しているテーマ（Slate）のデモページ
 
