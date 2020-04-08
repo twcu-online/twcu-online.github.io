@@ -20,7 +20,6 @@ $ git add .
 $ git commit -m '何を変更したかを記述'
 $ git push -u origin master
 ```
-<br />
 
 ## サイトの構成
 
@@ -29,9 +28,8 @@ $ git push -u origin master
 - トップページ：新入生用ページ  
 - student配下：在学生用ページ  
 - teacher配下：教員用ページ
-<br />
 
-## その他参考
+## その他の参考情報
 
 ### Githubの設定
 
