@@ -24,7 +24,6 @@ https://twcu-online.github.io/
 
 - [Slateデモページ](https://pages-themes.github.io/slate/)  
 - [Slateのソースコード](https://github.com/pages-themes/slate)
-<br />
 
 ### localでページの見た目を確認するための手順
 
