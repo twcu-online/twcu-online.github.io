@@ -4,11 +4,11 @@ https://twcu-online.github.io/
 <br />
 <br />
 
-### 更新の仕方
+## 更新の仕方
 
 - gitはすでに設定済み，$ git cloneを行っていることを前提にします．  
 - branchを切ったりしない非推奨の方法ですが，更新の容易さを優先しています．  
-- Conflictが発生する可能性があります．
+- conflictが発生する可能性があります．
 
 ```
 $ cd twcu-online.github.io
@@ -21,7 +21,6 @@ $ git commit -m '何を変更したかを記述'
 $ git push -u origin master
 ```
 <br />
-<br />
 
 ## サイトの構成
 
@@ -30,6 +29,7 @@ $ git push -u origin master
 - トップページ：新入生用ページ  
 - student配下：在学生用ページ  
 - teacher配下：教員用ページ
+<br />
 
 ## その他参考
 
