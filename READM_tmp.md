@@ -6,6 +6,20 @@ https://twcu-online.github.io/
 
 ## 更新の仕方
 
+- gitはすでに設定済み，$ git cloneを行っていることを前提にします．  
+- branchを切ったりしない非推奨の方法ですが，更新の容易さを優先しています．  
+- conflictが発生する可能性があります．
+
+```
+$ cd twcu-online.github.io
+$ git pull
+
+ファイルを更新
+
+$ git add .
+$ git commit -m '何を変更したかを記述'
+$ git push -u origin master
+```
 
 ## サイトの構成
 
