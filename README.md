@@ -11,6 +11,29 @@ https://twcu-online.github.io/
 - トップページ：新入生用ページ  
 - student配下：在学生用ページ  
 - teacher配下：教員用ページ
+
+## ページの更新方法
+
+- git, GitHubの設定を行っていることが前提です．  
+```
+$ git clone https:....
+$ cd twcu-online
+$ git checkout -b 適当なブランチ名
+
+編集作業を行う
+
+$ git commit -m '編集した内容' -a
+$ git push -u origin ブランチ名
+
+GitHub上で pull request を作成する
+```
+
+- mergeは管理者が行います．merge後はローカルで以下を実行してください．
+```
+$ git checkout master
+$ git pull
+$ git branch -d ブランチ名
+```
 <br />
 
 ## その他の参考情報
