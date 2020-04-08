@@ -32,39 +32,39 @@ $ git push -u origin master
 
 ## その他の参考情報
 
-### Githubの設定
+### GitHubの設定
 
 - [Getting started with GitHub](https://help.github.com/en/github/getting-started-with-github)  
 - [SSHによるGitHubへのアクセス](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
 ### 利用しているテーマ（Slate）のデモページ
 
-- [Slateデモページ](https://pages-themes.github.io/slate/){:target="_blank"}  
-- [Slateのソースコード](https://github.com/pages-themes/slate){:target="_blank"}
+- [Slateデモページ](https://pages-themes.github.io/slate/)  
+- [Slateのソースコード](https://github.com/pages-themes/slate)
+<br />
 
-### localでの確認のための手順
+### localでページの見た目を確認するための手順
 
-- 環境により異なると思いますので，その都度調べてください．
-以下はMac Catalinaの場合．
-
-- 最初にやっておくこと．
-
+- 環境により異なると思いますのでその都度調べてください．以下はMac Catalinaの場合です．  
+- 最初にやっておくこと．  
 ```
 command line toolsのインストール
+
 $ cd twcu-online.github.io
 $ gem install bundler
 $ bundle init
 $ vim Gemfile (他のテキストエディアでも可)
 Gemfileを開いて，一番下に以下の行を追記する
 gem "github-pages", group: :jekyll_plugins
+
 $ bundle install
 ```
 
-- 確認するときは，以下を実行するとローカルでサーバが立ち上がります．ブラウザでhttp://localhost:4000/ にアクセスすると確認できます．
-
+- 以下を実行するとローカルでサーバが立ち上がるので，ブラウザでhttp://localhost:4000/ にアクセスする．  
 ```
 $ cd twcu-online.github.io
 $ bundle exec jekyll serve
 ```
+<br />
 
-ご質問，ご要望は遠隔授業プロジェクトまでお願いします．
+ご質問，ご要望は遠隔授業プロジェクトチームまでお願いします．
