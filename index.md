@@ -4,6 +4,9 @@ title: 新入生のための遠隔授業を受けるための準備のページ
 description: 遠隔授業サポートページ
 ---
 
+{% include homelink.md %}
+<br />
+
 **（更新日：2020年4月2日）**
 <br />
 <br />
