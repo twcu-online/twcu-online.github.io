@@ -1,10 +1,10 @@
 # twcu-online.github.io
 
-## WebサイトのURL
-
 https://twcu-online.github.io/
+<br />
+<br />
 
-## 更新の仕方
+### 更新の仕方
 
 - gitはすでに設定済み，$ git cloneはすでに行っているという前提．  
 - branchを切ったりしない非推奨の方法ですが，更新の容易さを優先．  
