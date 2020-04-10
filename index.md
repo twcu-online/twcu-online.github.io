@@ -4,9 +4,6 @@ title: 新入生のための遠隔授業を受けるための準備のページ
 description: 遠隔授業サポートページ
 ---
 
-{% include homelink.md %}
-<br />
-
 **（更新日：2020年4月10日）**
 <br />
 <br />
@@ -80,12 +77,10 @@ description: 遠隔授業サポートページ
 
 1. &nbsp;&nbsp;ここで変更したパスワードは，**学内統一パスワード** と呼ばれ，様々なシステムで共通に利用することができます．パスワードの変更ができたら，このページの下の方に書かれているいくつかのシステムを実際に使ってみましょう．
 
-<font color="red">（注）パスワードの変更に失敗したり，パスワードを忘れてログインができなくなった<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;場合は，以下に連絡してください．本人確認を行った上で，パスワードを「初期パス<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ワード」にリセットします．処理には1日程度時間がかかりますので，次の日に<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;なってから，「初期パスワード」を用いて再度パスワードの変更を行ってください．<br />
-</font>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<font color="red">学生生活課：03-5382-6920（受付時間：月〜金 9:00-11:25, 12:25-17:00）</font>**
+<font color="red">（注）パスワードの変更に失敗したり，パスワードの変更の仕方がわからない場合には，<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;スマートフォン等のメール機能を使って，以下の問い合わせ窓口にメールで連絡して<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ください．その際，学生番号，トラブル内容をできるだけ詳しく記載してください．</font>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<font color="red">gmsprt@cis.twcu.ac.jp</font>**
 <br />
 <br />
 

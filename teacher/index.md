@@ -4,6 +4,9 @@ title: 教員のための遠隔授業を行うための準備のページ
 description: 遠隔授業サポートページ
 ---
 
+{% include homelink.md %}
+<br />
+
 **（更新日：2020年4月8日）**
 <br />
 <br />
