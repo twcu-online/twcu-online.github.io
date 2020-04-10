@@ -30,7 +30,7 @@ description: 遠隔授業サポートページ
 
 ### 教材の配布や課題提出・フィードバックに使うもの
 - [**WebClass**](./webclass.html) :  ２年次以上の学生は使い方をマスターしています。2019年度まで、情報処理センターに個別に利用申請して、システムへの授業の登録が必要でした。2020年度は情報処理センターで全ての授業を一括登録するので、申請は不要です。
-- **Google Classroom** :  labネットのアカウントでgoogleに loginして、Google Suite から利用できます。ただし、学生はcis.twcu.ac.jpにアカウントをもっていて、lab.twcu.ac.jpと所属が異なるために、講師が作成したクラスに招待が困難な可能性が高いです。オンライン授業プロジェクトチームでは、東京女子大学で授業をする講師が誰でもcis.twcu.ac.jpにアカウントを作れる可能性を検討しています。[googleによるclassroomの紹介サイト](https://edu.google.com/intl/ja/products/classroom/)も参照ください。
+- **Google Classroom** :  cis.twcu.ac.jpのアカウントでgoogleに loginして、Google Suite から利用できます。東京女子大学で授業をする講師には，cis.twcu.ac.jpのアカウントが発行されます。申請は不要です。[googleによるclassroomの紹介サイト](https://edu.google.com/intl/ja/products/classroom/)も参照ください。
 
 <br />
 <br />
