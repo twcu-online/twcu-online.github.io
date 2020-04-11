@@ -4,10 +4,6 @@ title: 教員のための遠隔授業を行うための準備のページ
 description: 遠隔授業サポートページ
 ---
 
-https://webclass.jp/documents/course-manage
-https://twcu-online.github.io/teacher/webclass.html
-https://sites.google.com/cis.twcu.ac.jp/cisqa/webclass
-
 {% include homelink.md %}
 <br />
 
