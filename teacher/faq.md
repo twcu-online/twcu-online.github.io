@@ -4,6 +4,10 @@ title: 教員のための遠隔授業を行うための準備のページ
 description: 遠隔授業サポートページ
 ---
 
+https://webclass.jp/documents/course-manage
+https://twcu-online.github.io/teacher/webclass.html
+https://sites.google.com/cis.twcu.ac.jp/cisqa/webclass
+
 {% include homelink.md %}
 <br />
 
@@ -112,12 +116,22 @@ description: 遠隔授業サポートページ
 
 ---
 
+###### 本学でweb-class が使えるようになるまで日にちがあるので、ネット上のweb-classで練習したいのだけれど、検索しても出てこない、どうしたらたどりつけますか。現時点ではネット上のweb-class というものを使った研修と言うことはできないのでしょうか。
+- 研修等は難しいですが，遠隔授業対応に向けたWebClassマニュアルが https://webclass.jp/documents/course-manage に公開されています（とてもわかりやすいです）．教員用サポートページ https://twcu-online.github.io/teacher/webclass.html の情報や，情報処理センターの Q & A https://sites.google.com/cis.twcu.ac.jp/cisqa/webclass も参考にしてください．
+
+---
+
 <br />
 
 ## Google Classroomについて
 
 ###### lab.twcu.ac.jpのアドレスでGoogle Classroomを開設しても、cis.twcu.ac.jpに所属する学生を招待できません。どういう解決策がありますか？
 - 教員にもcis.twcu.ac.jpのアドレスを発行する準備を情報処理センターがしています。アドレスが発行されましたら、cis.twcu.ac.jpでGoogle Classroomを開設して、学生を招待ください。Google Classroomの練習には、lab.twcu.ac.jpに所属する教員同士を招待して、テストなど行なっていただけます。
+
+---
+
+###### google classroomというのは、グーグルからはいれば今の時点でも使って練習できるのでしょうか。
+- はい，可能です．Google Classroomの練習には、lab.twcu.ac.jpに所属する教員同士を招待して、テストなど行なっていただけます。
 
 ---
 
