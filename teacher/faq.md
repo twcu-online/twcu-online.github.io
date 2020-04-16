@@ -14,7 +14,7 @@ description: 遠隔授業サポートページ
 # Q & A（教員用）
 <br />
 
-##### <font color="red">English version does not reflect the latest version. (Updated on April 13)</font>
+##### <font color="red">English translation is always a bit behind the original Japanese, but all English Q&As are up-to-date. When it does not keep up to the original, it simply does not show the translation.</font>
 <br />
 
 <font color="red">（注）<br />
@@ -81,7 +81,7 @@ description: 遠隔授業サポートページ
 
 ---
 
-###### 何かレポートの剽窃検出について利用可能なツールはありますか？<br />AAre there any tools available to detect plagiarism ?
+###### 何かレポートの剽窃検出について利用可能なツールはありますか？<br />Are there any tools available to detect plagiarism ?
 - WebClassには提出されたレポート同士の類似性を評価する機構があります（本学でも使えるかは未テスト）。https://www.datapacific.co.jp/webclass/characteristic/plagiarism-detection.html
 
 - WebClass has a function for evaluating the similarity between the submitted assignments (whether it can be used at the University has not yet been tested though). https://www.datapacific.co.jp/webclass/characteristic/plagiarism-detection.html
@@ -214,8 +214,6 @@ description: 遠隔授業サポートページ
 - 東京女子大学で導入する教育機関ライセンスでは、300人まで対応しています。~~受講生が100人を超えたときに実質的に機能するのかのテストはこれからです。300人を超える授業については、Webinarという通常のzoomと別のサービス（アプリ）を使うと可能であると言われていますが、これも4/8現在未確認です。近日中にテストして結果をここに知らせます。~~（履修者数の上限が150名になったためこの項は削除しました．）
 
 - 4/14にコミュニケーション専攻で行なった130人を対象にしたガイダンスでは90分間でトラブルはありませんでした。300人を超える授業については、Webinarという通常のzoomと別のサービス（アプリ）を使うと可能であると言われており、大学でも試験的に導入してテストの準備をしています。近日中にテストして結果をここに知らせます。
-
-- Although TWCU’s network license allows up to 300 people at most, it has been decided that the maximum number of students who can register for a class is 150. However, we are carrying out trials to confirm it can be effectively used with this number of participants. We’ll let you know the results as soon as we can. 
 
 ---
 
