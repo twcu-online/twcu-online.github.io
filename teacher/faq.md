@@ -168,6 +168,8 @@ description: 遠隔授業サポートページ
 ---
 
 ###### webclassをうまく4000人(＋教員100人以上)で使えるように、どう譲り合うのかのガイドラインをお示しください。<br />Please provide guidelines on what we can do so that Webclass can be used by 4000 people (plus 100+ faculty).
+- ~~時間割の確認等が必要であり，現在検討中です．決まり次第お知らせします．~~
+
 - 譲り合いのための割り当てルールを [**こちら**](./webclass.pdf){:target="_blank"} に公開しました．大変ご不便をおかけしますが，円滑な授業運営のため，ご協力をお願いします．特に，授業が集中する時間帯はWebClassを使わない選択肢をお考えください．使いやすいLMSとして [**Google Classroom**](https://edu.google.co.jp/intl/ja_ALL/products/classroom/?modal_active=none){:target="_blank"} があります．学外のサーバを利用するため人数制限はありません．使い方等の不明な点については，WebClass同様，情報処理センターでサポートを行います．
 
 - ~~Guidelines are currently being prepared. We’ll let you know as soon as they are ready.~~
