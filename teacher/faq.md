@@ -25,15 +25,15 @@ description: 遠隔授業サポートページ
 </font>
 <br />
 
-- [**遠隔授業全般について（General FAQ on Distance Learning）**](#遠隔授業全般について)  
-- [**WebClassについて（WebClass）**](#webclassについて)  
-- [**Google Classroomについて（Google Classroom）**](#google-classroomについて)  
-- [**Zoomについて（Zoom）**](#zoomについて)
+- [**遠隔授業全般について**](#遠隔授業全般についてgeneral-faq-on-distance-learning)（General FAQ on Distance Learning）
+- [**WebClassについて**](#webclassについてwebclass)（WebClass） 
+- [**Google Classroomについて**](#google-classroomについてgoogle-classroom)（Google Classroom）  
+- [**Zoomについて**](#zoomについてzoom)（Zoom）
 <br />
 <br />
 
 
-## 遠隔授業全般について<br />（General FAQ on Distance Learning）
+## 遠隔授業全般について（General FAQ on Distance Learning）
 
 ###### PCに不慣れで、サポートを受けたいのですが、可能ですか？<br />I am not used to using a PC. Can I get support from TWCU.
 - PCの一般的な使い方についてのサポートは一般のパソコン支援サービスをお使いください。授業に必要なことについては、まず、教員用サポートページ（https://twcu-online.github.io/teacher/）や、FAQのページを参考にしてください。その他ネット検索するとたくさんのサポート記事が見つかります。それでも解決しない場合には、授業の所轄部署（専攻科目は専攻オフィス、全学共通科目は科目運営委員会）にお問い合わせをお願いします。東京女子大学では、現在正式に人的なサポートを行う余裕がありません。たいへん申し訳ありません。
@@ -157,7 +157,7 @@ description: 遠隔授業サポートページ
 
 <br />
 
-## WebClassについて<br />（WebClass）
+## WebClassについて（WebClass）
 
 
 ###### 現在WebClassではどのくらいのユーザ数が同時に利用できますか？<br />How many people can use WebClass at the same time?
@@ -204,7 +204,7 @@ description: 遠隔授業サポートページ
 
 <br />
 
-## Google Classroomについて<br />（Google Classroom）
+## Google Classroomについて（Google Classroom）
 
 ###### lab.twcu.ac.jpのアドレスでGoogle Classroomを開設しても、cis.twcu.ac.jpに所属する学生を招待できません。どういう解決策がありますか？<br />I opened Google Classroom with my @lab.twcu.ac.jp address, but I cannot invite students belonging to cis.twcu.ac.jp. What is the solution? 
 - 教員にもcis.twcu.ac.jpのアドレスを発行する準備を情報処理センターがしています。アドレスが発行されましたら、cis.twcu.ac.jpでGoogle Classroomを開設して、学生を招待ください。Google Classroomの練習には、lab.twcu.ac.jpに所属する教員同士を招待して、テストなど行なっていただけます。
@@ -222,7 +222,7 @@ description: 遠隔授業サポートページ
 
 <br />
 
-## Zoomについて<br />（Zoom）
+## Zoomについて（Zoom）
 
 ###### 100人規模の授業をzoomでできますか？／ 何人までzoomでできますか？／ 300人以上の受講生の授業をzoomでできますか？<br />How many people can access zoom simultaneously at TWCU?
 - 東京女子大学で導入する教育機関ライセンスでは、300人まで対応しています。~~受講生が100人を超えたときに実質的に機能するのかのテストはこれからです。300人を超える授業については、Webinarという通常のzoomと別のサービス（アプリ）を使うと可能であると言われていますが、これも4/8現在未確認です。近日中にテストして結果をここに知らせます。~~（履修者数の上限が150名になったためこの項は削除しました．）
