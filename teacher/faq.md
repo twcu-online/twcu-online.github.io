@@ -7,7 +7,7 @@ description: 遠隔授業サポートページ
 {% include homelink_t.md %}
 <br />
 
-**（更新日：2020年4月15日）**
+**（更新日：2020年4月19日）**
 <br />
 <br />
 
@@ -141,17 +141,24 @@ description: 遠隔授業サポートページ
 
 ---
 
+###### CampusSquareからダウンロードした履修者リストから、学生のメールアドレスを作る簡単な方法はないでしょうか？
+- いくつか方法がありますが、(1) Excelで読み込んだ後、学生番号の部分を選択したのち、書式（フォーマット）のメニューでセル、を選びユーザー設定で @“@cis.twcu.ac.jp” と設定するとできます。
+
+<div align="center">
+<img src="./img/image1.jpg" width="320" height="240" />
+</div>
+
+- (2)  ExcelのCONCAT関数を使って別のセルに学生番号に“@cis.twcu.ac.jp” を追加したアドレスを作らせることができます。Excel以外の表計算ソフトでも同様の関数でつくれるだろうと思います。１つのセルで関数を書き込んだら他のセルにも関数をcopy and pasteすれば手間がかかりません。
+
+<div align="center">
+<img src="./img/image2.png" width="320" height="190" />
+</div>
+---
 
 <br />
 
 ## WebClassについて<br />（WebClass）
 
-###### WebClassで動画教材や音声教材を共有できるか？<br />Can I share my video and audio materials on WebClass?
-- WebClassのサーバの処理能力が足りないので、動画や音声教材はWebClassでは共有しないでください。WebClassで動画教材を配信するとサービスが止まってしまうことが危惧されます。例えば、余裕のあるGoogle Docsに置いて、そのリンクを共有してください。
-
-- Do not share video or audio materials through WebClass as the servers have insufficient processing capacity for this, and it would cause service interruptions. An alternative way to distribute them is to upload them to Google Docs, which has more capacity, and share the link with your students.
-
----
 
 ###### 現在WebClassではどのくらいのユーザ数が同時に利用できますか？<br />How many people can use WebClass at the same time?
 - 4/8現在、400人が同時にアクセスできます。学生数4000人に対して1/10の処理能力しかありません。 
@@ -161,16 +168,23 @@ description: 遠隔授業サポートページ
 ---
 
 ###### webclassをうまく4000人(＋教員100人以上)で使えるように、どう譲り合うのかのガイドラインをお示しください。<br />Please provide guidelines on what we can do so that Webclass can be used by 4000 people (plus 100+ faculty).
-- 時間割の確認等が必要であり，現在検討中です．決まり次第お知らせします．
+- 譲り合いのための割り当てルールを [**こちら**](./webclass.pdf){:target="_blank"} に公開しました．大変ご不便をおかけしますが，円滑な授業運営のため，ご協力をお願いします．特に，授業が集中する時間帯はWebClassを使わない選択肢をお考えください．使いやすいLMSとして [**Google Classroom**](https://edu.google.co.jp/intl/ja_ALL/products/classroom/?modal_active=none){:target="_blank"} があります．学外のサーバを利用するため人数制限はありません．使い方等の不明な点については，WebClass同様，情報処理センターでサポートを行います．
 
-- Guidelines are currently being prepared. We’ll let you know as soon as they are ready.
+- ~~Guidelines are currently being prepared. We’ll let you know as soon as they are ready.~~
+
+---
+
+###### WebClassで動画教材や音声教材を共有できるか？<br />Can I share my video and audio materials on WebClass?
+- WebClassのサーバの処理能力が足りないので、動画や音声教材はWebClassでは共有しないでください。WebClassで動画教材を配信するとサービスが止まってしまうことが危惧されます。例えば、余裕のあるGoogle Docsに置いて、そのリンクを共有してください。
+
+- Do not share video or audio materials through WebClass as the servers have insufficient processing capacity for this, and it would cause service interruptions. An alternative way to distribute them is to upload them to Google Docs, which has more capacity, and share the link with your students.
 
 ---
 
 ###### 私はまだWebClassに登録しておりませんが、この場合、大学の方から改めてご案内いただけるのでしょうか。それとも、マニュアルに従って申請書を作成し提出する必要があるのでしょうか。<br />I haven’t registered for WebClass yet. Will the university inform me of the necessary procedures? Or do I have to submit an application as indicated in the manual?
-- 情報処理センターで，時間割に基づき全授業のコース登録を一括で行いますので，先生方からのコース登録の申請は不要です．作業の終了は4月下旬ごろを予定しています．登録が終了したらお知らせします．
+- 情報処理センターで，時間割に基づき全授業のコース登録を一括で行いますので，先生方からのコース登録の申請は不要です．~~作業の終了は4月下旬ごろを予定しています．登録が終了したらお知らせします．~~
 
-- As course registration for all classes will be done at the Information Processing Center as scheduled, you will not need to submit an application. Registration is scheduled to end around the end of April. We’ll let you know when it is complete.
+- As course registration for all classes will be done at the Information Processing Center as scheduled, you will not need to submit an application. ~~Registration is scheduled to end around the end of April. We’ll let you know when it is complete.~~
 
 ---
 

@@ -7,13 +7,14 @@ description: 遠隔授業サポートページ
 {% include homelink_t.md %}
 <br />
 
-**（更新日：2020年4月12日）**
+**（更新日：2020年4月19日）**
 <br />
 <br />
 
 ## 参考になるリンク集
 
 - [**オンラインでの授業のための参考情報（国立情報学研究所，NII）**](https://www.nii.ac.jp/news/2020/0325.html?fbclid=IwAR22_4uvb5qY01hQZ7VB8czjmh6WHspEXRO68Asu56Gp8sBZ9VJuUF42zN4#03){:target="_blank"}
+- [**授業をオンライン化するための10のポイント（大阪大学 教育学習支援部）**](https://www.tlsc.osaka-u.ac.jp/project/onlinelecture/tips01.html){:target="_blank"}
 <br />
 <br />
 
@@ -32,7 +33,7 @@ description: 遠隔授業サポートページ
 - **Google Hanguout Meet**:  labネットのアカウントでgoogleに loginして、Google Suite から利用できます。ただし、学生はcis.twcu.ac.jpにアカウントをもっていて、lab.twcu.ac.jpと所属が異なるためにビデオ会議をするのは困難な可能性が高いです。オンライン授業プロジェクトチームでは、東京女子大学で授業をする講師が誰でもcis.twcu.ac.jpにアカウントを作れる可能性を検討しています。[Googleによるmeetの紹介サイト](https://gsuite.google.co.jp/intl/ja/products/meet/)を参照ください。
 
 ### 教材の配布や課題提出・フィードバックに使うもの
-- **WebClass** :  ２年次以上の学生は使い方をマスターしています。2019年度まで、情報処理センターに個別に利用申請して、システムへの授業の登録が必要でした。2020年度は情報処理センターで全ての授業を一括登録するので、申請は不要です。マニュアル，使い方等を [**こちら**](./webclass.html){:target="_blank"} にまとめました．
+- **WebClass** :  2年次以上の学生は使い方をマスターしています。2019年度まで、情報処理センターに個別に利用申請して、システムへの授業の登録が必要でした。2020年度は情報処理センターで全ての授業を一括登録するので、申請は不要です。マニュアル，使い方等を [**こちら**](./webclass.html){:target="_blank"} にまとめました．<br />（4月19日） [**利用のあたっての注意事項**](./webclass.pdf){:target="_blank"} を掲載しました．必ずご覧ください．
 - **Google Classroom** :  cis.twcu.ac.jpのアカウントでgoogleに loginして、Google Suite から利用できます。東京女子大学で授業をする講師には，cis.twcu.ac.jpのアカウントが発行されます。申請は不要です。[googleによるclassroomの紹介サイト](https://edu.google.com/intl/ja/products/classroom/)も参照ください。
 
 <br />
