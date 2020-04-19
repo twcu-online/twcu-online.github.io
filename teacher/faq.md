@@ -7,7 +7,7 @@ description: 遠隔授業サポートページ
 {% include homelink_t.md %}
 <br />
 
-**（更新日：2020年4月19日）**
+**（更新日：2020年4月20日）**
 <br />
 <br />
 
@@ -316,7 +316,7 @@ https://zoom-japan.net/blog/zoom-register/
 ---
 
 ###### ビデオ会議を行うのに，Zoom以外の選択肢はありますか？
-- G Suite for Educationのユーザは，[**Google Hangout Meetのプレミアム機能**](https://gsuite.google.co.jp/intl/ja/products/meet/) が9/30まで限定で無料になっており，本学でも利用可能です．Google Classroomとの連携がしやすい他，大規模会議，ライブストリーミング，録画などの機能が利用できます．Google Hangout Meetを使う場合は、ビデオ画像の解像度をさげる設定をしてください。高い解像度ではデータ量が多く学生の履修が困難になりえます。
+- G Suite for Educationのユーザは，[**Google Hangout Meetのプレミアム機能**](https://gsuite.google.co.jp/intl/ja/products/meet/) が9/30まで限定で無料になっており，本学でも利用可能です．Google Classroomとの連携がしやすい他，大規模会議，ライブストリーミング，録画などの機能が利用できます．Google Hangout Meetを使う場合は、ビデオ画像の解像度をさげる設定をしてください（[**こちら**](https://support.google.com/meet/answer/9302964?co=GENIE.Platform%3DDesktop&hl=ja) をご参照ください）。高い解像度ではデータ量が多く学生の履修が困難になりえます。
 
 ---
 
