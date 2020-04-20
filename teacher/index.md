@@ -33,7 +33,7 @@ description: 遠隔授業サポートページ
 - **Google Hanguout Meet**:  cisアカウントでgoogleに loginして、Google Suite から利用できます。[**Google Hangout Meetのプレミアム機能**](https://gsuite.google.co.jp/intl/ja/products/meet/) が9/30まで限定で無料になっており，本学でも利用可能です．Google Classroomとの連携がしやすい他，大規模会議，ライブストリーミング，録画などの機能が利用できます．
 
 ### 教材の配布や課題提出・フィードバックに使うもの
-- **WebClass** :  2年次以上の学生は使い方をマスターしています。2019年度まで、情報処理センターに個別に利用申請して、システムへの授業の登録が必要でした。2020年度は情報処理センターで全ての授業を一括登録するので、申請は不要です。マニュアル，使い方等を [**こちら**](./webclass.html){:target="_blank"} にまとめました．<br />（4月19日） [**利用のあたっての注意事項**](./webclass.pdf){:target="_blank"} を掲載しました．必ずご覧ください．
+- **WebClass** :  2年次以上の学生は使い方をマスターしています。2019年度まで、情報処理センターに個別に利用申請して、システムへの授業の登録が必要でした。2020年度は情報処理センターで全ての授業を一括登録するので、申請は不要です。マニュアル，使い方等を [**こちら**](./webclass.html){:target="_blank"} にまとめました．<br />（4月19日） [**利用のあたっての注意事項**](./20200419webclass.pdf){:target="_blank"} を掲載しました．必ずご覧ください．
 - **Google Classroom** :  cis.twcu.ac.jpのアカウントでgoogleに loginして、Google Suite から利用できます。東京女子大学で授業をする講師には，cis.twcu.ac.jpのアカウントが発行されます。申請は不要です。[googleによるclassroomの紹介サイト](https://edu.google.com/intl/ja/products/classroom/)も参照ください。
 
 <br />
