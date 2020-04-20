@@ -182,7 +182,7 @@ description: 遠隔授業サポートページ
 ---
 
 ###### WebClassで動画教材や音声教材を共有できるか？<br />Can I share my video and audio materials on WebClass?
-- WebClassのサーバの処理能力が足りないので、動画や音声教材はWebClassでは共有しないでください。WebClassで動画教材を配信するとサービスが止まってしまうことが危惧されます。例えば、余裕のあるGoogle Docsに置いて、そのリンクを共有してください。
+- WebClassのサーバの処理能力が足りないので、動画や音声教材はWebClassでは共有しないでください。WebClassで動画教材を配信するとサービスが止まってしまうことが危惧されます。例えば、余裕のあるGoogle ドライブに置いて、そのリンクを共有してください。
 
 - Do not share video or audio materials through WebClass as the servers have insufficient processing capacity for this, and it would cause service interruptions. An alternative way to distribute them is to upload them to Google Docs, which has more capacity, and share the link with your students.
 
