@@ -53,12 +53,7 @@ description: 遠隔授業サポートページ
 
 その他のツールについて，以下にいくつかの例を紹介します．授業によっては，これ以外のツールを用いる場合もあります．
 
-- 東京女子大学ではオンライン授業を実施するためのツールとして [**Zoom**](https://zoom.us/){:target="_blank"} を導入しました．そのため，同時双方向型の授業では，Zoom が用いられることが多いでしょう．<br />
-**※ 学生のためのZoom利用マニュアルを作成しました．ご活用ください．**<br />
-    - [**インストール方法**](Zoom_学生用マニュアル01_インストール方法.pdf){:target="_blank"}
-    - [**アカウント作成**](Zoom_学生用マニュアル02_アカウント作成とマイ設定.pdf){:target="_blank"}
-    - [**授業へのアクセス**](Zoom_学生用マニュアル03_各授業にアクセスする方法.pdf){:target="_blank"}
-    - [**授業中の操作**](Zoom_学生用マニュアル04_授業中の操作.pdf){:target="_blank"}
+- 東京女子大学ではオンライン授業を実施するためのツールとして [**Zoom**](https://zoom.us/){:target="_blank"} を導入しました．そのため，同時双方向型の授業では，Zoom が用いられることが多いでしょう．
 - 教材の配布や課題提出，課題へのフィードバックには，[**WebClass**](https://webclass.twcu.ac.jp/){:target="_blank"} や [**Google Classroom**](https://edu.google.com/intl/ja/products/classroom/?modal_active=none){:target="_blank"} が用いられることが多いと思います．授業の出欠確認には，WebClass を利用する先生が多いと思われます．
 - その他，Googleドライブによる共同作業や，先生独自のWebサイトなどが用いられる場合もあります．
 <br />
@@ -89,7 +84,11 @@ description: 遠隔授業サポートページ
         
 - Google Classroom
 
-- Zoom
+- **Zoom**：学生のためのZoom利用マニュアルを作成しました．ご活用ください．
+    - [**インストール方法**](Zoom_学生用マニュアル01_インストール方法.pdf){:target="_blank"}
+    - [**アカウント作成**](Zoom_学生用マニュアル02_アカウント作成とマイ設定.pdf){:target="_blank"}
+    - [**授業へのアクセス**](Zoom_学生用マニュアル03_各授業にアクセスする方法.pdf){:target="_blank"}
+    - [**授業中の操作**](Zoom_学生用マニュアル04_授業中の操作.pdf){:target="_blank"}
 <br />
 <br />
 <br />
