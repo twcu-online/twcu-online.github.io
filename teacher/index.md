@@ -7,8 +7,11 @@ description: 遠隔授業サポートページ
 {% include homelink_t.md %}
 <br />
 
-**（更新日：2020年4月19日）**
+**（更新日：2020年4月25日）**
 <br />
+<br />
+
+##### <font color="red">遠隔授業のノウハウ等，本学関係者が</font> [**情報を共有するためのページ**](https://sites.google.com/cis.twcu.ac.jp/distance-lecture){:target="_blank"} <font color="red">を作成しました．cisアカウントでログインすることで閲覧・編集が可能です．授業用サイトも作成できます．ご活用ください．（4/25）</font>
 <br />
 
 ## 参考になるリンク集
