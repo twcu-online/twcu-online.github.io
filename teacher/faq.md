@@ -7,7 +7,7 @@ description: 遠隔授業サポートページ
 {% include homelink_t.md %}
 <br />
 
-**（更新日：2020年4月25日）**
+**（更新日：2020年4月28日）**
 <br />
 <br />
 
@@ -288,6 +288,11 @@ https://zoom-japan.net/blog/zoom-register/
 - Zoomから大学が契約した有料の教育機関アカウントへの切り替えメールが届きます。その指示にしたがってアカウントを更新ください。以前のアカウントの削除は不要です。
 
 - You will receive an email message from Zoom about how to switch to a paid, institutional account. Please follow the instructions to update your account. There is no need to delete previous accounts.
+
+---
+
+###### 東京女子大の授業以外の用途のために，別途個人で有料アカウントを取得した場合，東京女子大から発行されたアカウントとバッティングすることがあるでしょうか？
+- 別のメールアドレスで私的にZoomのライセンスを取得しても、東京女子大大学のメールアドレスで登録したZoomのライセンスには影響しません。
 
 ---
 
