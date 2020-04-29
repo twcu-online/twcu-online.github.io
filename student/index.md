@@ -108,7 +108,7 @@ description: 遠隔授業サポートページ
     - [**インストール方法**](Zoom_学生用マニュアル01_インストール方法.pdf){:target="_blank"}
     - [**アカウント作成**](Zoom_学生用マニュアル02_アカウント作成とマイ設定.pdf){:target="_blank"}
     - [**授業へのアクセス**](Zoom_学生用マニュアル03_各授業にアクセスする方法.pdf){:target="_blank"}
-    - [**授業中の操作**](Zoom_学生用マニュアル04_授業中の操作.pdf){:target="_blank"}
+    - [**授業中の操作**](Zoom_学生用マニュアル04_授業中の操作.pdf){:target="_blank"}**<font color="red">（4/27改訂）</font>**
 <br />
 <br />
 <br />
