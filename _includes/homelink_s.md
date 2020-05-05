@@ -1,1 +1,1 @@
-##### [新入生用ページ](../index.html)&nbsp;&nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp;&nbsp;&nbsp;[在学生用ページ](./index.html)&nbsp;&nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp;&nbsp;&nbsp;[Q & A（学生用）](./faq.html)
+##### [新入生用ページ](../index.html)&nbsp;&nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp;&nbsp;&nbsp;[学生用ページ](./index.html)&nbsp;&nbsp;&nbsp;&nbsp; \| &nbsp;&nbsp;&nbsp;&nbsp;[Q & A（学生用）](./faq.html)

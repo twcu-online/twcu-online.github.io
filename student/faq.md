@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 在学生のための遠隔授業を受けるための準備のページ
+title: 学生のための遠隔授業を受ける&emsp;ための準備のページ
 description: 遠隔授業サポートページ
 ---
 
