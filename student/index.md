@@ -121,7 +121,7 @@ description: 遠隔授業サポートページ
 
 - 各授業に関する質問は，授業担当の先生に問い合わせてください．
 
-- 遠隔授業で困ったことがあったときは，**学務課** risyu@office.twcu.ac.jp にお問い合わせください．
+- 遠隔授業で困ったことがあったときは，学務課 **<font color="red">risyu@office.twcu.ac.jp</font>** にお問い合わせください．
 
 - 教育用ICTシステムの利用方法については，**[情報処理センター](https://www.cis.twcu.ac.jp/cis/index.html){:target="_blank"}** のページに記載があります．**[Q&A](https://sites.google.com/cis.twcu.ac.jp/cisqa){:target="_blank"}** も用意されていますので，こちらも参考にしてください．メールで質問したいときは，問い合わせ一覧をご参照ください．
 
