@@ -7,7 +7,7 @@ description: 遠隔授業サポートページ
 {% include homelink_t.md %}
 <br />
 
-**（更新日：2020年4月25日）**
+**（更新日：2020年5月8日）**
 <br />
 <br />
 
