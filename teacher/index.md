@@ -16,6 +16,8 @@ description: 遠隔授業サポートページ
 
 ## 参考になるリンク集
 
+- [**データダイエットへの協力のお願い（国立情報学研究所，NII）**](https://www.nii.ac.jp/event/other/decs/tips.html){:target="_blank"}
+- [**データダイエットへの協力のお願い（イラスト版）**](https://www.nii.ac.jp/event/upload/datadiet.png){:target="_blank"}
 - [**オンラインでの授業のための参考情報（国立情報学研究所，NII）**](https://www.nii.ac.jp/news/2020/0325.html?fbclid=IwAR22_4uvb5qY01hQZ7VB8czjmh6WHspEXRO68Asu56Gp8sBZ9VJuUF42zN4#03){:target="_blank"}
 - [**授業をオンライン化するための10のポイント（大阪大学 教育学習支援部）**](https://www.tlsc.osaka-u.ac.jp/project/onlinelecture/tips01.html){:target="_blank"}
 <br />
