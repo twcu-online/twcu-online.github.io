@@ -7,7 +7,7 @@ description: 遠隔授業サポートページ
 {% include homelink_s.md %}
 <br />
 
-**（更新日：2020年5月8日）**
+**（更新日：2020年5月13日）**
 <br />
 <br />
 
@@ -57,7 +57,7 @@ description: 遠隔授業サポートページ
 具体的な授業のパターンとしては，以下のような形態があります．
 
 ###### 同時双方向型（テレビ会議方式など）
-[**Zoom**](https://zoom.us/){:target="_blank"}，[**Google Hangout Meet**](https://gsuite.google.co.jp/intl/ja/products/meet/){:target="_blank"} 等のツールを用いて，リアルタイムに授業を行う形態です．対面授業に近い形で授業を行うことができる一方，学生の環境によっては不具体が生じる可能性もあります．
+[**Zoom**](https://zoom.us/){:target="_blank"}，[**Google Hangout Meet**](https://gsuite.google.co.jp/intl/ja/products/meet/){:target="_blank"} 等のツールを用いて，リアルタイムに授業を行う形態です．対面授業に近い形で授業を行うことができる一方，学生の環境によっては不具合が生じる可能性もあります．
 
 ###### オンデマンド型
 あらかじめ作成しておいた授業の動画や，音声付きPowerPoint，音声のみやテキストのみの情報を用いて，学生がオンデマンドで（時間割上の授業時間外でも可）学習を行う形態です．この場合でも，学習内容に対する教員と学生との間の **<font color="red">双方向のやりとり</font>** を必ず行います．双方向のやりとりの例として，以下のような方法があります．
@@ -102,7 +102,8 @@ description: 遠隔授業サポートページ
         - 初めてコースに登録するときは，画面右下の「コースの追加」をクリックし該当するコースを選ぶ．その後「メンバーになる」をクリックする．
         - 2回目からはメンバーになったコースが時間割に表示されるので，それを選ぶ．
         
-- Google Classroom
+- **Google Classroom** の使い方：
+    - 学内専用サイトで，尾尻先生作成の [**Google Classroom 学生向け案内**](https://sites.google.com/lab.twcu.ac.jp/classroom-for-students/){:target="_blank"} を公開しています．cisアドレスでログインしてご覧ください．
 
 - **Zoom**：学生のためのZoom利用マニュアルを作成しました．ご活用ください．
     - [**インストール方法**](Zoom_学生用マニュアル01_インストール方法.pdf){:target="_blank"}
