@@ -11,7 +11,7 @@ description: 遠隔授業サポートページ
 <br />
 <br />
 
-##### <font color="red">WebClassの利用時間制限を全て解除いたしました．ただし，学生は自身の履修している授業以外の授業時間帯（9:00 - 18:05）は原則アクセス禁止です．（7/22）<br /><br />最新情報については，本学関係者が遠隔授業に関する</font> [**情報を共有するためのページ**](https://sites.google.com/cis.twcu.ac.jp/distance-lecture){:target="_blank"} <font color="red">をご覧ください．cisアカウントでログインすることで閲覧・編集が可能です．授業用サイトも作成できます．</font>
+##### <font color="red">WebClassの利用時間制限を全て解除いたしました．ただし，学生は自身の履修している授業以外の授業時間帯（9:00 - 18:05）は原則アクセス禁止です．（7/22）<br /><br />最新情報については，遠隔授業に関する</font> [**情報を共有するためのページ**](https://sites.google.com/cis.twcu.ac.jp/distance-lecture){:target="_blank"} <font color="red">をご覧ください．cisアカウントでログインすることで閲覧・編集が可能です．授業用サイトも作成できます．</font>
 <br />
 
 ## 参考になるリンク集
