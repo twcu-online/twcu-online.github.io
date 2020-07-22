@@ -7,22 +7,24 @@ description: 遠隔授業サポートページ
 {% include homelink_t.md %}
 <br />
 
-**（更新日：2020年5月15日）**
+**（更新日：2020年7月22日）**
 <br />
 <br />
 
 # Q & A（教員用）
 <br />
 
-##### <font color="red">English translation is always a bit behind the original Japanese, but all English Q&As are up-to-date. When it does not keep up to the original, it simply does not show the translation.</font>
+##### <font color="red">現在，こちらのページは更新されていません．最新の情報については，遠隔授業のノウハウ等，本学関係者が</font> [**情報を共有するためのページ**](https://sites.google.com/cis.twcu.ac.jp/distance-lecture){:target="_blank"} <font color="red">をご覧ください．cisアカウントでログインすることで閲覧・編集が可能です．授業用サイトも作成できます．ご活用ください．（7/22）<br><br><br>
+
+##### English translation is always a bit behind the original Japanese, but all English Q&As are up-to-date. When it does not keep up to the original, it simply does not show the translation.
 <br />
 
-<font color="red">（注）<br />
+~~<font color="red">（注）<br />
 ・まだ整理しきれていない暫定版ですが，公開します．<br />
 ・皆さまからの日々の問い合わせに回答します．<br />
 ・毎日更新しますので，定期的に確認してください．<br />
 ・状況は日々刻々と変わります．それに伴い，回答内容が変更になることがあります．<br />
-</font>
+</font>~~
 <br />
 
 - [**遠隔授業全般について**](#遠隔授業全般についてgeneral-faq-on-distance-learning)（General FAQ on Distance Learning）
@@ -167,23 +169,27 @@ description: 遠隔授業サポートページ
 
 
 ###### 現在WebClassではどのくらいのユーザ数が同時に利用できますか？<br />How many people can use WebClass at the same time?
-- 4/8現在、400人が同時にアクセスできます。学生数4000人に対して1/10の処理能力しかありません。 
+- ~~4/8現在、400人が同時にアクセスできます。学生数4000人に対して1/10の処理能力しかありません。~~ 
 
-- At present (April 8), it is possible for 400 people to access the site at the same time as the the servers have only 10% of the processing capacity needed for all our 4,000 students.
+- 7/19現在、800人が同時にアクセスできます。
+
+- ~~At present (April 8), it is possible for 400 people to access the site at the same time as the the servers have only 10% of the processing capacity needed for all our 4,000 students.~~
+
+- At present (July 19), it is possible for 800 people to access the site at the same time.
 
 ---
 
-###### webclassをうまく4000人(＋教員100人以上)で使えるように、どう譲り合うのかのガイドラインをお示しください。<br />Please provide guidelines on what we can do so that Webclass can be used by 4000 people (plus 100+ faculty).
+###### ~~webclassをうまく4000人(＋教員100人以上)で使えるように、どう譲り合うのかのガイドラインをお示しください。<br />Please provide guidelines on what we can do so that Webclass can be used by 4000 people (plus 100+ faculty)~~.
 - ~~時間割の確認等が必要であり，現在検討中です．決まり次第お知らせします．~~
 
-- 譲り合いのための割り当てルールを [**こちら**](./20200515webclass.pdf){:target="_blank"} に公開しました．大変ご不便をおかけしますが，円滑な授業運営のため，ご協力をお願いします．特に，授業が集中する時間帯はWebClassを使わない選択肢をお考えください．使いやすいLMSとして [**Google Classroom**](https://edu.google.co.jp/intl/ja_ALL/products/classroom/?modal_active=none){:target="_blank"} があります．学外のサーバを利用するため人数制限はありません．使い方等の不明な点については，WebClass同様，情報処理センターでサポートを行います．
+- ~~譲り合いのための割り当てルールを [**こちら**](./20200515webclass.pdf){:target="_blank"} に公開しました．大変ご不便をおかけしますが，円滑な授業運営のため，ご協力をお願いします．特に，授業が集中する時間帯はWebClassを使わない選択肢をお考えください．使いやすいLMSとして [**Google Classroom**](https://edu.google.co.jp/intl/ja_ALL/products/classroom/?modal_active=none){:target="_blank"} があります．学外のサーバを利用するため人数制限はありません．使い方等の不明な点については，WebClass同様，情報処理センターでサポートを行います．~~
 
 - ~~Guidelines are currently being prepared. We’ll let you know as soon as they are ready.~~
 
 ---
 
-###### WebClass割り当てルールに記載された授業の教室がわかりません．どのように調べたら良いですか？
-- 教室は，CampusSquareにログインし，最初のページの「お知らせ」の部分に掲載されている「2020年度時間割」をクリックすると見ることができます．
+###### ~~WebClass割り当てルールに記載された授業の教室がわかりません．どのように調べたら良いですか？~~
+- ~~教室は，CampusSquareにログインし，最初のページの「お知らせ」の部分に掲載されている「2020年度時間割」をクリックすると見ることができます．~~
 
 ---
 
