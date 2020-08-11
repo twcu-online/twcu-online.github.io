@@ -7,18 +7,18 @@ description: 遠隔授業サポートページ
 {% include homelink_t.md %}
 <br />
 
-**（更新日：2020年7月22日）**
+**（更新日：2020年8月11日）**
 <br />
 <br />
 
-##### <font color="red">WebClassの利用時間制限を全て解除いたしました．ただし，学生は自身の履修している授業以外の授業時間帯（9:00 - 18:05）は原則アクセス禁止です．（7/22）<br /><br />最新情報については，遠隔授業に関する</font> [**情報を共有するためのページ**](https://sites.google.com/cis.twcu.ac.jp/distance-lecture){:target="_blank"} <font color="red">をご覧ください．cisアカウントでログインすることで閲覧・編集が可能です．授業用サイトも作成できます．</font>
+##### <font color="red">最新情報については，遠隔授業に関する</font> [**情報を共有するためのページ**](https://sites.google.com/cis.twcu.ac.jp/distance-lecture){:target="_blank"} <font color="red">をご覧ください．cisアカウントでログインすることで閲覧・編集が可能です（サイト内で調べたい用語を「検索」できます）．授業用サイトも作成できます．</font>
 <br />
 
 ## 参考になるリンク集
 
+- [**オンラインでの授業のための参考情報（国立情報学研究所，NII）**](https://www.nii.ac.jp/news/2020/0325.html?fbclid=IwAR22_4uvb5qY01hQZ7VB8czjmh6WHspEXRO68Asu56Gp8sBZ9VJuUF42zN4#03){:target="_blank"}
 - [**データダイエットへの協力のお願い（国立情報学研究所，NII）**](https://www.nii.ac.jp/event/other/decs/tips.html){:target="_blank"}
 - [**データダイエットへの協力のお願い（イラスト版）**](https://www.nii.ac.jp/event/upload/datadiet.png){:target="_blank"}
-- [**オンラインでの授業のための参考情報（国立情報学研究所，NII）**](https://www.nii.ac.jp/news/2020/0325.html?fbclid=IwAR22_4uvb5qY01hQZ7VB8czjmh6WHspEXRO68Asu56Gp8sBZ9VJuUF42zN4#03){:target="_blank"}
 - [**授業をオンライン化するための10のポイント（大阪大学 教育学習支援部）**](https://www.tlsc.osaka-u.ac.jp/project/onlinelecture/tips01.html){:target="_blank"}
 <br />
 <br />

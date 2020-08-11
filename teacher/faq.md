@@ -7,14 +7,14 @@ description: 遠隔授業サポートページ
 {% include homelink_t.md %}
 <br />
 
-**（更新日：2020年7月22日）**
+**（更新日：2020年8月11日）**
 <br />
 <br />
 
 # Q & A（教員用）
 <br />
 
-##### <font color="red">現在，こちらのページは更新されていません．最新の情報については，遠隔授業のノウハウ等，本学関係者が</font> [**情報を共有するためのページ**](https://sites.google.com/cis.twcu.ac.jp/distance-lecture){:target="_blank"} <font color="red">をご覧ください．cisアカウントでログインすることで閲覧・編集が可能です．授業用サイトも作成できます．ご活用ください．（7/22）<br><br><br>
+##### <font color="red">現在，こちらのページは更新されていません．最新の情報については，遠隔授業のノウハウ等，本学関係者が</font> [**情報を共有するためのページ**](https://sites.google.com/cis.twcu.ac.jp/distance-lecture){:target="_blank"} <font color="red">をご覧ください（調べたい用語で「検索」をしてください）．cisアカウントでログインすることで閲覧・編集が可能です．授業用サイトも作成できます．ご活用ください．（8/11）<br><br><br>
 
 ##### English translation is always a bit behind the original Japanese, but all English Q&As are up-to-date. When it does not keep up to the original, it simply does not show the translation.
 <br />
@@ -91,7 +91,7 @@ description: 遠隔授業サポートページ
 ---
 
 ###### シラバスに、最初の授業への入り方を明記するようにとのことですが、どのようにすればよいかわかりません。お教えいただけませんか？<br />I was told to include in the syllabus information about how students can take the first class online, but I do not know what to write.
-- 学生は大学から付与されている電子メールアドですでの送受信を確保するように指導されていますので、例えば、次のような案がかんがえられます（２案提示しています）。
+- 学生は大学から付与されている電子メールアドレスでの送受信を確保するように指導されていますので、例えば、次のような案がかんがえられます（２案提示しています）。
 １案：履修者には大学のメールアドレス宛に電子メールで連絡をします。初回の授業時は〇〇のように行うという連絡をするので、初回の授業開始時刻にまでには、大学のメールアドレスに来る電子メールを確実に受信できるようにしてください。もし、初回の授業開始時に受信できなかったときには、担当講師に電子メールで問い合わせをしてください。
 ２案：授業ではGoogle Classroomを使用する。履修生には事前に大学の電子メールアカウントに招待状を送るので、大学の電子メールアカウントをよく確認すること。初回授業についての指示は Google Classroom 上で行うので、初回授業前にGoogle Classroomが使えるようにしておくこと。
 
@@ -215,9 +215,9 @@ description: 遠隔授業サポートページ
 ---
 
 ###### WebClassは、履修登録した科目に、既に学生が登録していると考えてよろしいですか？1回目の授業について、WebClassで確認するようにとシラバスに書いてもよろしいでしょうか。<br />Is it correct to assume that students are already registered for WebClass, or is it correct to write in the syllabus that students should check WebClass for the first class? 
-- 前半の質問に対しては答えは「いいえ」です．現在，Campus SquareとWebClassは連動していません．そのため，学生は自分が履修するクラスに「参加する」という作業を行う必要があります．後半の質問に対しては答えは「はい」です．1回目の授業についてWebClassで確認するようシラバスに記載しておけば，学生は該当クラスに参加してWebClassを確認します．2年次以上の学生はこの作業に慣れているので問題ありません．1年生についても，今後サポート方法を検討します．
+- 前半の質問に対しては答えは「いいえ」です．現在，Campus SquareとWebClassは連動していません．そのため，学生は自分が履修するクラスに「参加する」という作業を行う必要があります．後半の質問に対しては答えは「はい」です．1回目の授業についてWebClassで確認するようシラバスに記載しておけば，学生は該当クラスに参加してWebClassを確認します．~~2年次以上の~~学生はこの作業に慣れているので問題ありません．~~1年生についても，今後サポート方法を検討します．~~
 
-- The answer to the first half of the question is “no”. Currently, Campus Square and WebClass are not linked, and students are therefore not registered for WebClass. They need to “participate” in the class they are taking. The answer to the second half of the question is “yes.” If the syllabus says that students have to check WebClass for the first class, they should check it and attend the class. Students in their second year and above are used to this procedure, so it should not be a problem, and we will be looking at ways to support first-year students.
+- The answer to the first half of the question is “no”. Currently, Campus Square and WebClass are not linked, and students are therefore not registered for WebClass. They need to “participate” in the class they are taking. The answer to the second half of the question is “yes.” If the syllabus says that students have to check WebClass for the first class, they should check it and attend the class. Students ~~in their second year and above~~ are used to this procedure, so it should not be a problem~~, and we will be looking at ways to support first-year students~~.
 
 ---
 
@@ -298,7 +298,7 @@ https://zoom-japan.net/blog/zoom-register/
 ---
 
 ###### 東京女子大の授業以外の用途のために，別途個人で有料アカウントを取得した場合，東京女子大から発行されたアカウントとバッティングすることがあるでしょうか？
-- 別のメールアドレスで私的にZoomのライセンスを取得しても、東京女子大大学のメールアドレスで登録したZoomのライセンスには影響しません。
+- 別のメールアドレスで私的にZoomのライセンスを取得しても、東京女子大学のメールアドレスで登録したZoomのライセンスには影響しません。
 
 ---
 
