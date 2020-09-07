@@ -7,12 +7,13 @@ description: 遠隔授業サポートページ
 {% include homelink_t.md %}
 <br />
 
-**（更新日：2020年8月11日）**
+**（更新日：2020年9月7日）**
 <br />
 <br />
 
-##### <font color="red">最新情報については，遠隔授業に関する</font> [**情報を共有するためのページ**](https://sites.google.com/cis.twcu.ac.jp/distance-lecture){:target="_blank"} <font color="red">をご覧ください．cisアカウントでログインすることで閲覧・編集が可能です（サイト内で調べたい用語を「検索」できます）．授業用サイトも作成できます．</font>
+##### <font color="red">最新の情報については，</font> [**＜情報処理センター Q&A＞**](https://sites.google.com/cis.twcu.ac.jp/cisqa){:target="_blank"} <font color="red"> または遠隔授業に関する<br /></font> [**＜情報を共有するためのページ＞**](https://sites.google.com/cis.twcu.ac.jp/distance-lecture){:target="_blank"} <font color="red">をご覧ください（サイト内で調べたい用語を「検索」できます）．後者は，cisアカウントでログインすることで閲覧・編集が可能です．授業用サイトも作成できます．</font>
 <br />
+
 
 ## 参考になるリンク集
 

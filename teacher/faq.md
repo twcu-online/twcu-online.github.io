@@ -7,14 +7,14 @@ description: 遠隔授業サポートページ
 {% include homelink_t.md %}
 <br />
 
-**（更新日：2020年8月11日）**
+**（更新日：2020年9月7日）**
 <br />
 <br />
 
 # Q & A（教員用）
 <br />
 
-##### <font color="red">現在，こちらのページは更新されていません．最新の情報については，遠隔授業のノウハウ等，本学関係者が</font> [**情報を共有するためのページ**](https://sites.google.com/cis.twcu.ac.jp/distance-lecture){:target="_blank"} <font color="red">をご覧ください（調べたい用語で「検索」をしてください）．cisアカウントでログインすることで閲覧・編集が可能です．授業用サイトも作成できます．ご活用ください．（8/11）<br><br><br>
+##### <font color="red">現在，こちらのページは更新されていません．最新の情報については，<br /></font> [**＜情報処理センター Q&A＞**](https://sites.google.com/cis.twcu.ac.jp/cisqa){:target="_blank"} <font color="red"> または，遠隔授業のノウハウ等，本学関係者が<br /></font> [**＜情報を共有するためのページ＞**](https://sites.google.com/cis.twcu.ac.jp/distance-lecture){:target="_blank"} <font color="red">をご覧ください（調べたい用語で「検索」をしてください）．後者は，cisアカウントでログインすることで閲覧・編集が可能です．授業用サイトも作成できます．ご活用ください．（9/7）<br><br><br>
 
 ##### English translation is always a bit behind the original Japanese, but all English Q&As are up-to-date. When it does not keep up to the original, it simply does not show the translation.
 <br />
