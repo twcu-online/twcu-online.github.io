@@ -7,8 +7,11 @@ description: 遠隔授業サポートページ
 {% include homelink_s.md %}
 <br />
 
-**（更新日：2020年5月7日）**
+**（更新日：2020年9月19日）**
 <br />
+<br />
+
+##### <font color="red">最新の情報については</font> [**＜情報処理センター Q&A＞**](https://sites.google.com/cis.twcu.ac.jp/cisqa){:target="_blank"} <font color="red"> に掲載していますので，そちらをご覧ください（サイト内で調べたい用語を「検索」できます）．</font>
 <br />
 
 # Q & A（学生用）

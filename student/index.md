@@ -7,14 +7,18 @@ description: 遠隔授業サポートページ
 {% include homelink_s.md %}
 <br />
 
-**（更新日：2020年7月22日）**
+**（更新日：2020年9月19日）**
 <br />
 <br />
+
+##### <font color="red">最新の情報については</font> [**＜情報処理センター Q&A＞**](https://sites.google.com/cis.twcu.ac.jp/cisqa){:target="_blank"} <font color="red"> に掲載していますので，そちらをご覧ください（サイト内で調べたい用語を「検索」できます）．</font>
+<br />
+
 
 ### <font color="red">＜重要！＞ WebClassへのアクセス制限緩和について</font>
 
 - 授業時間内の，教室ごとのアクセス可能時間帯の制限を解除しました．<br />
-- ただし，自分が出席している授業以外の**授業時間帯（月〜金，9:00〜18:05）**は，**<font color="red">WebClassへのアクセスを原則禁止</font>** します（8/5まで）．<br />
+- ただし，自分が出席している授業以外の**授業時間帯（月〜金，9:00〜18:05）**は，<br />**<font color="red">可能な限りWebClassにアクセスしないようにしてください</font>**．（9/19掲載）<br />
 <br />
 <br />
 
