@@ -1,5 +1,13 @@
 # twcu-online.github.io
 
+このページの内容は，以下に移転しました．
+
+https://sites.google.com/cis.twcu.ac.jp/cisqa/distance-lecture-student?authuser=0
+
+https://sites.google.com/cis.twcu.ac.jp/cisqa/distance-lecture-teacher?authuser=0
+
+<hr>
+
 https://twcu-online.github.io/
 <br />
 <br />
