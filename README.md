@@ -6,9 +6,8 @@ https://sites.google.com/cis.twcu.ac.jp/cisqa/distance-lecture-student?authuser=
 https://sites.google.com/cis.twcu.ac.jp/cisqa/distance-lecture-teacher?authuser=0
 
 <br />
-<br />
-<hr>
 以下は古い情報です．
+<hr>
 
 https://twcu-online.github.io/
 <br />
